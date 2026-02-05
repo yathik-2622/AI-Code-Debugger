@@ -1,4 +1,4 @@
-# ⚡ AI Code Debugger (AI Code Architect)
+# ⚝ AI Code Debugger (AI Code Architect)
 
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
