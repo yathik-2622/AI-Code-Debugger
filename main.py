@@ -22,7 +22,7 @@ with st.sidebar:
         st.rerun()
 
 # 3. HEADER
-st.title("⚡ AI Code Architect")
+st.title("⚝ AI Code Architect")
 st.caption("Automated Logic Analysis & Optimization")
 
 # 4. CHAT HISTORY
